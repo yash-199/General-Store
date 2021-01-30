@@ -1,5 +1,5 @@
 # General-Store
-The main of project  aim to store the user and vendor data in MySQL database and fetch the data of user and vendor for login.
+The main aim of project to store the user and vendor data in MySQL database and fetch the data of user and vendor for login.
 # Content
 1.Index.php
 2.Registration.php
